@@ -2,9 +2,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/a7b11614-2d8f-4060-b328-d8af733424ca/deploy-status)](https://app.netlify.com/sites/kasa2021/deploys)
 
-# OPENCLASSROOMS PROJECT 11 *(English)*
-
-# Kasa
+## Kasa
 
 Open website at [Kasa](https://kasa2021.netlify.app/)
 
@@ -80,7 +78,7 @@ The mockups can be found here :
 
 - Clone the repository onto your computer :
 
-  `git clone https://github.com/Stevens-Mark/StevensMark_P11_18102021.git`
+  `git clone https://github.com/Stevens-Mark/Kasa.git`
 
 - Inside this repository, install the packages/dependencies :
 
@@ -93,9 +91,7 @@ The mockups can be found here :
 The App runs on http://localhost:3000/
 
 
-# OPENCLASSROOMS PROJET 11 *(Francais)*
-
-# Kasa
+## Kasa
 
 Ouvrir le site web à [Kasa](https://kasa2021.netlify.app/)
 
@@ -171,7 +167,7 @@ Les maquettes peuvent être trouvées ici :
 
 - Clonez le référentiel sur votre ordinateur :
 
-  `git clone https://github.com/Stevens-Mark/StevensMark_P11_18102021.git`
+  `git clone https://github.com/Stevens-Mark/Kasa.git`
 
 - A l'intérieur de ce dépôt, installez les paquets/dépendances :
 
